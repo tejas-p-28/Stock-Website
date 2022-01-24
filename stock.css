@@ -1,0 +1,8 @@
+body{
+    background-image: url('images/background3.jpeg');
+    background-repeat: repeat;
+    background-size: 50% 400px;
+}
+.card{
+    border-radius: 3%;
+}
